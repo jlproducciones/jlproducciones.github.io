@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.d7b9efdf.css",
-    "main.js": "/static/js/main.d5450967.js",
+    "main.js": "/static/js/main.bd1c9dbc.js",
     "static/js/453.07aca60f.chunk.js": "/static/js/453.07aca60f.chunk.js",
-    "static/media/map.png": "/static/media/map.e9ea19044a250d68e83a.png",
     "static/media/imagenconsola.jpg": "/static/media/imagenconsola.e1c3cdff37a0edc8841e.jpg",
     "static/media/imagenensayadero.jpg": "/static/media/imagenensayadero.122824c0e1e8d7198c58.jpg",
     "static/media/evento2.jpg": "/static/media/evento2.c3faae7472c5fffa7f3e.jpg",
+    "static/media/ensayadero.jpg": "/static/media/ensayadero.f1135105cbb6044cdba7.jpg",
     "static/media/evento1.jpg": "/static/media/evento1.983034732face6e0a246.jpg",
     "static/media/imagenguitarra.jpg": "/static/media/imagenguitarra.8f95513dfaa65c575fac.jpg",
     "static/media/imgSalaDeGrabacio.jpg": "/static/media/imgSalaDeGrabacio.f285d2b31c8d9cdf71bf.jpg",
+    "static/media/map.jpg": "/static/media/map.9b4a1db0b8dbf7cade87.jpg",
     "static/media/logo.jpg": "/static/media/logo.2441e17cf48aaa4f1216.jpg",
-    "static/media/imagenbarockhipotetico.jpg": "/static/media/imagenbarockhipotetico.b1a47b3ac70dc6482456.jpg",
     "static/media/imgEventos.jpeg": "/static/media/imgEventos.d496b5dc225afe4e0e02.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.d7b9efdf.css.map": "/static/css/main.d7b9efdf.css.map",
-    "main.d5450967.js.map": "/static/js/main.d5450967.js.map",
+    "main.bd1c9dbc.js.map": "/static/js/main.bd1c9dbc.js.map",
     "453.07aca60f.chunk.js.map": "/static/js/453.07aca60f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7b9efdf.css",
-    "static/js/main.d5450967.js"
+    "static/js/main.bd1c9dbc.js"
   ]
 }
