@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b903762.css",
-    "main.js": "/static/js/main.c5dacc85.js",
+    "main.css": "/static/css/main.2af4599b.css",
+    "main.js": "/static/js/main.0dd16fa0.js",
     "static/js/453.07aca60f.chunk.js": "/static/js/453.07aca60f.chunk.js",
     "static/media/consola2-removebg-preview.png": "/static/media/consola2-removebg-preview.414d6c6c5f52ec08f903.png",
     "static/media/bajoyampleto-removebg-preview.png": "/static/media/bajoyampleto-removebg-preview.b4383a634a59b9926857.png",
+    "static/media/closebutton-removebg-preview.png": "/static/media/closebutton-removebg-preview.e85a49b911fcb8c31bb9.png",
     "static/media/imagenconsola.jpg": "/static/media/imagenconsola.e1c3cdff37a0edc8841e.jpg",
     "static/media/imagenensayadero.jpg": "/static/media/imagenensayadero.122824c0e1e8d7198c58.jpg",
     "static/media/evento2.jpg": "/static/media/evento2.c3faae7472c5fffa7f3e.jpg",
@@ -12,6 +13,8 @@
     "static/media/xx-removebg-preview.png": "/static/media/xx-removebg-preview.2e1871866c9b81bbdd71.png",
     "static/media/amplificador3-removebg-preview.png": "/static/media/amplificador3-removebg-preview.962522bc939528873e8a.png",
     "static/media/amplificador2-removebg-preview (1).png": "/static/media/amplificador2-removebg-preview (1).de3de984c33d25c166cb.png",
+    "static/media/flechaizquierda-removebg-preview.png": "/static/media/flechaizquierda-removebg-preview.96a1ac222a062bcdbc62.png",
+    "static/media/flechaderecha-removebg-preview.png": "/static/media/flechaderecha-removebg-preview.f2026b587e5d82811568.png",
     "static/media/mezcladora-removebg-preview.png": "/static/media/mezcladora-removebg-preview.1a6885710bb8d05b58f2.png",
     "static/media/guitarra-removebg-preview.png": "/static/media/guitarra-removebg-preview.6c4bc97d31f8d0fff217.png",
     "static/media/amplificador-removebg-preview.png": "/static/media/amplificador-removebg-preview.bfc9947e5bb0b0450e8e.png",
@@ -30,12 +33,12 @@
     "static/media/imgEventos.jpeg": "/static/media/imgEventos.d496b5dc225afe4e0e02.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.7b903762.css.map": "/static/css/main.7b903762.css.map",
-    "main.c5dacc85.js.map": "/static/js/main.c5dacc85.js.map",
+    "main.2af4599b.css.map": "/static/css/main.2af4599b.css.map",
+    "main.0dd16fa0.js.map": "/static/js/main.0dd16fa0.js.map",
     "453.07aca60f.chunk.js.map": "/static/js/453.07aca60f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b903762.css",
-    "static/js/main.c5dacc85.js"
+    "static/css/main.2af4599b.css",
+    "static/js/main.0dd16fa0.js"
   ]
 }
